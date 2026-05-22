@@ -34,7 +34,7 @@ Intro to NumPy and Pandas. Loading a CSV, exploring it, basic stats. Visualizing
 <br>Activity: load a real Tanzanian dataset (TANROADS, weather, anything available).
 
 **Session 6 — Your First ML Model**
-Intro to scikit-learn. Train/test split concept. Build a simple classifier (e.g. predict if something is A or B). Evaluate it — accuracy, confusion matrix. They will see the full pipeline for the first time.
+Intro to scikit-learn. Train/test split concept. Build a simple classifier (e.g. predict if something is A or B). Evaluate it — accuracy, confusion matrix. 
 
 ---
 
