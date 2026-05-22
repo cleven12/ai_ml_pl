@@ -19,7 +19,8 @@ What is data, why it matters, types of data (structured/unstructured). How machi
 <br>Activity: Explore real dataset together (CSV of something local — weather, population, anything).
 
 **Session 3 — Types of Machine Learning**
-Supervised, unsupervised, reinforcement learning — with real analogies. Classification vs regression vs clustering. No code yet, just building strong mental models. Examples : spam filters, recommendation systems, fraud detection.
+Supervised, unsupervised, reinforcement learning — with real analogies. Classification vs regression vs clustering. No code yet, just building strong mental models.
+<br>Examples : spam filters, recommendation systems, fraud detection.
 
 ---
 
